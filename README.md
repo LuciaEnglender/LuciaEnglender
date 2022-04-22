@@ -6,13 +6,13 @@ const aboutMe = {
    code: [Javascript, HTML, CSS ],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: [ "Bootstrap" ]
+         js: ["Reactjs", "Redux"],
+         css: [ "Bootstrap" , "Tailwind" ]
       },
       backEnd: {
-         js: ["Node", "Express", "Sequelize" ],
+         js: ["Nodejs", "Expressjs", "Sequelize" ],
       },
-      databases: ["PostgreSQL"],
+      databases: ["PostgreSQL", "SQL"],
    },
    currentOccupation: ["open for job opportunities"],
   
