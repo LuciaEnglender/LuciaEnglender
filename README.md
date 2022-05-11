@@ -10,11 +10,14 @@ const aboutMe = {
          css: [ "Bootstrap" , "Tailwind" ]
       },
       backEnd: {
-         js: ["Nodejs", "Expressjs", "Sequelize" ],
+         js: ["Nodejs", "Expressjs", "Sequelize", "Mongoose"],
       },
-      databases: ["PostgreSQL", "SQL"],
+      databases: {
+               "SQL" : "PostgreSQL",
+               "NoSQL": "MongoDB" 
+                  }
    },
-   currentOccupation: ["open for job opportunities"],
+   currentOccupation: ["backend at Tap"],
   
 ```
 
