@@ -13,9 +13,9 @@ const aboutMe = {
          js: ["Nodejs", "Expressjs", "Sequelize", "Mongoose"],
       },
       databases: {
-               "SQL" : "PostgreSQL",
-               "NoSQL": "MongoDB" 
-                  }
+         "SQL" : "PostgreSQL",
+         "NoSQL": "MongoDB" 
+          }
    },
    currentOccupation: ["backend at Tap"],
   
